@@ -1,7 +1,7 @@
 {
   "name": "tasktrove2",
   "version": "1.0.0",
-  "description": "",
+  "description": "An amazing website built using MERN stack for users to manage their daily tasks and improve their efficiency.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,6 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongoose": "^8.4.0"
-  }
+  },
+  "devDependencies": {}
 }
